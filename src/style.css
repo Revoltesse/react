@@ -1,0 +1,20 @@
+p {
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    width: 20vw;
+}
+
+ul {
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 5px 5px grey;
+    width: 15vw;
+}
+
+li {
+    list-style-type: none;
+    padding: 2px;
+    display: flex;
+    margin: 5px 10px;
+}
